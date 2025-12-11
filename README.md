@@ -1,4 +1,5 @@
---O código serve para realizar cadastro de alunos onde ficará armazenado em um mini banco de dados--
+--O projeto serve para facilitar um cadastro mais completo de alunos--
+--O sistema, irá questionar campos como o que deseja realizar no começo, como criar ou editar cadastros já feitos. A criação irá coletar dados como endereço, nome, telefone, número de cadastro e email, onde preenchendo todos os campos, será criado o cadastro do aluno conforme informação incluidas.--
 
 --Para executar o código corretamente, será necesário importar a biblioteca pandas e a os. Também será necessário  ter instalado o java, python e o pandas em sua máquina para não ocorrer erros na execução--
 
