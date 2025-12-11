@@ -3,7 +3,7 @@
 --Para executar o código corretamente, será necesário importar a biblioteca pandas e a os. Também será necessário  ter instalado o java, python e o pandas em sua máquina para não ocorrer erros na execução--
 
 --Autores--
-Pedro Henrique Canto da Silva
+Pedro Henrique Canto da Silva,
 Lucas Ribeiro Dias
 
 
